@@ -22,9 +22,9 @@ def getCarrierGateway(carrier):
     0: "txt.att.net",       # AT&T
     1: "pm.sprint.com",     # Sprint
 	2: "tmomail.net",       # T-Mobile
-	3: "vtext.com",         # Verizon
-	4: "myboostmobile.com", # Boost Mobile
-	5: "sms.mycricket.com", # Cricket
+    3: "vtext.com",         # Verizon
+    4: "myboostmobile.com", # Boost Mobile
+    5: "sms.mycricket.com", # Cricket
     6: "mymetropcs.com",    # Metro PCS
     7: "mmst5.tracfone.com",# Tracfone
     8: "email.uscc.net",    # U.S. Cellular
