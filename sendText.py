@@ -17,7 +17,6 @@ import smtplib
 
 # -------------------------- getCarrierGateway --------------------------------
 def getCarrierGateway(carrier):
-  rc=""
   switcher = {
     0: "txt.att.net",       # AT&T
     1: "pm.sprint.com",     # Sprint
